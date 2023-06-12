@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt -n 10 | lc -w
+ls -lt -n 10 | wc -l
